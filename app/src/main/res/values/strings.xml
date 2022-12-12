@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loan</string>
+    <string name="selling_price">Selling Price</string>
+    <string name="dow_payment">Down Payment</string>
+    <string name="first_time">First time house buyer?</string>
+    <string name="legal_fees">Legal fees</string>
+    <string name="stamp_duty">Stamp Duty</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="contact_us">Contact US</string>
+    <string name="visit_us">Visit Us</string>
+
+</resources>
